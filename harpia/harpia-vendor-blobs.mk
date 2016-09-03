@@ -39,6 +39,25 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/harpia/proprietary/lib/libmotocalibration.so:system/lib/libmotocalibration.so \
     vendor/motorola/harpia/proprietary/lib/libmpbase.so:system/lib/libmpbase.so \
     vendor/motorola/harpia/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
+    vendor/motorola/harpia/proprietary/lib/modules/ansi_cprng.ko:system/lib/modules/ansi_cprng.ko \
+    vendor/motorola/harpia/proprietary/lib/modules/core_ctl.ko:system/lib/modules/core_ctl.ko \
+    vendor/motorola/harpia/proprietary/lib/modules/dma_test.ko:system/lib/modules/dma_test.ko \
+    vendor/motorola/harpia/proprietary/lib/modules/evbug.ko:system/lib/modules/evbug.ko \
+    vendor/motorola/harpia/proprietary/lib/modules/gpio_axis.ko:system/lib/modules/gpio_axis.ko \
+    vendor/motorola/harpia/proprietary/lib/modules/gpio_event.ko:system/lib/modules/gpio_event.ko \
+    vendor/motorola/harpia/proprietary/lib/modules/gpio_input.ko:system/lib/modules/gpio_input.ko \
+    vendor/motorola/harpia/proprietary/lib/modules/gpio_matrix.ko:system/lib/modules/gpio_matrix.ko \
+    vendor/motorola/harpia/proprietary/lib/modules/gpio_output.ko:system/lib/modules/gpio_output.ko \
+    vendor/motorola/harpia/proprietary/lib/modules/isdbt.ko:system/lib/modules/isdbt.ko \
+    vendor/motorola/harpia/proprietary/lib/modules/mcDrvModule.ko:system/lib/modules/mcDrvModule.ko \
+    vendor/motorola/harpia/proprietary/lib/modules/mcKernelApi.ko:system/lib/modules/mcKernelApi.ko \
+    vendor/motorola/harpia/proprietary/lib/modules/oprofile.ko:system/lib/modules/oprofile.ko \
+    vendor/motorola/harpia/proprietary/lib/modules/pronto/pronto_wlan.ko:system/lib/modules/pronto/pronto_wlan.ko \
+    vendor/motorola/harpia/proprietary/lib/modules/radio-iris-transport.ko:system/lib/modules/radio-iris-transport.ko \
+    vendor/motorola/harpia/proprietary/lib/modules/spidev.ko:system/lib/modules/spidev.ko \
+    vendor/motorola/harpia/proprietary/lib/modules/test-iosched.ko:system/lib/modules/test-iosched.ko \
+    vendor/motorola/harpia/proprietary/lib/modules/touchx.ko:system/lib/modules/touchx.ko \
+    vendor/motorola/harpia/proprietary/lib/modules/wlan.ko:system/lib/modules/wlan.ko \
     vendor/motorola/harpia/proprietary/vendor/lib/libactuator_f8v03t_dw9718s.so:system/vendor/lib/libactuator_f8v03t_dw9718s.so \
     vendor/motorola/harpia/proprietary/vendor/lib/libactuator_f8v03t_dw9718s_camcorder.so:system/vendor/lib/libactuator_f8v03t_dw9718s_camcorder.so \
     vendor/motorola/harpia/proprietary/vendor/lib/libactuator_f8v03t_dw9718s_camera.so:system/vendor/lib/libactuator_f8v03t_dw9718s_camera.so \
